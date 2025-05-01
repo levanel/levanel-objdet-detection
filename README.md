@@ -1,3 +1,4 @@
 # levanel-objdet-detection
+link for the working prototype
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/levanel/levanel-objdet-detection)
+PLS NOTE: LOADING THE BOUNDING BOX MIGHT TAKE 3-4 REFRESH https://levanel-objdet-prsufh.stackblitz.io/
